@@ -62,5 +62,5 @@
 //}
 fun main() {
     val b1:Account=Account()
-    print("b1")
+    print("b")
 }
